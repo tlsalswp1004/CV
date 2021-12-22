@@ -21,7 +21,6 @@ function App() {
           >
             React
           </a>
-          <span>, </span>
           <a
             className="App-link"
             href="https://redux.js.org/"
